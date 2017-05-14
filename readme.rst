@@ -68,3 +68,12 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+***************
+Reference URL
+***************
+
+This is reference URL to complete CodeIgniter Tutorial for me.
+
+- `Official Tutorial <https://codeigniter.com/userguide3/tutorial/index.html>`_
+- `Japanese user's comment page <http://symfoware.blog68.fc2.com/blog-entry-1591.html>`_
